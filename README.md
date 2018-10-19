@@ -8,6 +8,7 @@ also by heart.
 ## Key Features
 **Real-time heart rate detector** - By simply placing one's finger on the sensor on the back of a supporting device, Pvlse can detect their 
 heart rate.
+
 **Play song based on bpm** - Using the heart rate from the detector, Pvlse is able to choose a song to play with beats per minute close to the heart rate
 of the user.
 
